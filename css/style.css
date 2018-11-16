@@ -1,0 +1,39 @@
+body {
+    /* color: darkslategray; */
+    /* background: url(../images/Code_programming.jpeg) no-repeat transparent; */
+    /* padding-top: 100px; */
+    /* background-size: cover; */
+    /* height: 2000px; */
+}
+.p-0{
+    padding: 0px;
+}
+
+.carousel-control-next-icon, .carousel-control-prev-icon {
+    width: 30px;
+    height: 30px;
+}
+
+.carouselText {
+    color: orangered;
+}
+
+.header-font {
+    font-family: "Josefin Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: #fd1506;
+  }
+
+
+  .bg-circle a, a:hover, .media a:focus
+  {
+    text-decoration: none !important;
+    outline: none;
+    color: #ececec;
+  }
+  .bg-circle-outline a, a:hover, .media a:focus
+  {
+    text-decoration: none !important;
+    outline: none;
+    color: #ffffff;
+  }
+ 
